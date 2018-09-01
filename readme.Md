@@ -7,7 +7,7 @@
 7. Classes
 8. Objects
 9. Constructors
-10. Access Modifiers
+10. Acess modifiers && inheritance
 11. Access Modifiers in Constructor Parameters
 12. Properties
 13. Modules
