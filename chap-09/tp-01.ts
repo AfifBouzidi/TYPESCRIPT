@@ -14,5 +14,6 @@ class Point{
     }
 }
 
+
 let point:Point=new Point(11,12);
 point.draw();
