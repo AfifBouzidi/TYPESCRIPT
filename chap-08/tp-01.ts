@@ -10,4 +10,6 @@ class Point{
 }
 
 let point:Point=new Point();
+point.x=10;
+point.y=22;
 point.draw();
