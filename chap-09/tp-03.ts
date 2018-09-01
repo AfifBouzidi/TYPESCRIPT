@@ -9,5 +9,6 @@ class Point{
     }
 }
 
+
 let point:Point=new Point();
 point.draw();
